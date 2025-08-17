@@ -3,6 +3,7 @@ UserName: AlankritSrivastava-Lumio
 # Meeting Summarizer
 
 A web application to generate concise meeting summaries and email them to recipients using Gemini AI and Gmail.
+<img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/3d291347-d9f9-45dd-8af6-01b959be1afc" />
 
 ## Features
 
